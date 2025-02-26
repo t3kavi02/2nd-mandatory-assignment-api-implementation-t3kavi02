@@ -137,6 +137,7 @@ app.get('/high-scores', async (req, res) => {
 
 //------ WRITE YOUR SOLUTION ABOVE THIS LINE ------//
 
+
 let serverInstance = null;
 module.exports = {
   start: function () {
